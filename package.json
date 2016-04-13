@@ -1,0 +1,24 @@
+{
+  "name": "minicrud",
+  "version": "1.0.0",
+  "description": "crud project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertlindell/miniCRUD.git"
+  },
+  "keywords": [
+    "angular",
+    "mongodb",
+    "crud"
+  ],
+  "author": "Robert Lindell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertlindell/miniCRUD/issues"
+  },
+  "homepage": "https://github.com/robertlindell/miniCRUD#readme"
+}
